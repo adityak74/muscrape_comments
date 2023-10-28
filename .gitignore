@@ -1,0 +1,7 @@
+.env
+venv
+comments_data
+comments_data.zip
+__pycache__
+combined_comments.csv
+combined_data
